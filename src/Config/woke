@@ -1,0 +1,32 @@
+["0xe9e7cea3dedca5984780bafc599bd69add087d56","290909090909090900000000","727272727272727200000000","1272727272727272700000000","0","1642916694000","550000000000000","1643547600","1643551200","1643551260","1643553000",
+["25090909090909090000000000","15454545454545453000000000","23090909090909090000000000","0"],"0xF7b6d7E3434cB9441982F9534E6998C43eEF144a",
+"63636363636363640000000000"]
+
+{
+"_token": "0xF7b6d7E3434cB9441982F9534E6998C43eEF144a",    
+"_currency": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+"_round1Start":"1643547600",
+"_round1End":"1643551200",
+"_round2Start": "1643551260",
+"_round2End":"1643553000",
+"_price": "550000000000000",
+"_totalAmount": "63636363636363640000000000"
+"_maxAmountThatCanBeInvestedInTier1": "290909090909090900000000",
+"_maxAmountThatCanBeInvestedInTier2": "727272727272727200000000",
+"_maxAmountThatCanBeInvestedInTier3": "1272727272727272700000000",
+"_maxAmountThatCanBeInvestedInTier4": "0",
+"_presaleProjectID": "1642916694000",
+"_tiersAllocation":["25090909090909090000000000","15454545454545453000000000",
+"23090909090909090000000000","0"]
+
+
+
+    uint256 _price;
+    uint256 _totalAmount;
+    uint256 _maxAmountThatCanBeInvestedInTier1;
+    uint256 _maxAmountThatCanBeInvestedInTier2;
+    uint256 _maxAmountThatCanBeInvestedInTier3;
+    uint256 _maxAmountThatCanBeInvestedInTier4;
+    uint256 _presaleProjectID;
+    uint256[] _tiersAllocation;
+}
